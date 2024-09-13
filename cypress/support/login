@@ -1,0 +1,5 @@
+const urlBase = 'https://challenge.primecontrol.com.br/'
+const login = 'gabi_vee@hotmail.com'
+const password = 'teste@2024'
+const passworderrado = 'teste@20242'
+const { fakerPT_BR, faker } = require('@faker-js/faker')
